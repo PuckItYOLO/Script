@@ -3,14 +3,14 @@
 ## Setup
 * I run these macro scripts with Auto Hotkey. You can download the AHK program from [autohotkey.com](https://autohotkey.com         /download/). Further instructions on how to operate this program can be found on [youtube.com](https://www.youtube.com/)
 
-## These Scripts are Tested Prior to Release to Ensure Compatability with Foo's AIO and Hake.me Scripts (Read Notes Below)
+## These Scripts are Tested Prior to Release to Ensure Compatibility with Foo's AIO and Hake.me Scripts (Read Notes Below)
 
-### Foo's AIO Compatability Checklist
+### Foo's AIO Compatibility Checklist
   My AHK scripts are compatible with the following functions:
 
 * Ward Awareness
 
-* Auto Item Usage (Compatable with the Armlet function)
+* Auto Item Usage (Compatible with the Armlet function)
 
 * Auto Use Utility Items
 
@@ -22,12 +22,12 @@
 
 * DodgeIt
 
-### Hake.me Compatability Checklist
+### Hake.me Compatibility Checklist
   My AHK scripts are compatible with the following functions:
 
-* My scripts are compatable with all of Hake.me Built-In features (Refer to my notes that applies to Hake's Built-In LH feature, as the process will be the same)
+* My scripts are compatible with all of Hake.me Built-In features (Refer to my notes that applies to Hake's Built-In LH feature, as the process will be the same)
 
-### Misc Tested Scripts Compatability Checklist (Not Responsible if these scripts creators have not updated their core scripts)
+### Misc Tested Scripts Compatibility Checklist (Not Responsible if these scripts creators have not updated their core scripts)
 * AbilityAlertAdvanced.lua
 
 * AutoDodger2.lua
