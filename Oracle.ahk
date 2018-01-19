@@ -6,6 +6,8 @@
 
 ;
 
+~enter::suspend
+
 f11::Suspend
 
 ;Press e key for Damage Combo
