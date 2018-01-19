@@ -25,7 +25,7 @@
 ### Hake.me Compatability Checklist
   My AHK scripts are compatible with the following functions:
 
-* My scripts are compatable with all of Hake.me Built-In features (Refer to line 20 of RAW script of this Read.Me as the note applies to Hake's Built-In LH feature
+* My scripts are compatable with all of Hake.me Built-In features (Refer to my notes that applies to Hake's Built-In LH feature, as the process will be the same)
 
 ### Misc Tested Scripts Compatability Checklist (Not Responsible if these scripts creators have not updated their core scripts)
 * AbilityAlertAdvanced.lua
