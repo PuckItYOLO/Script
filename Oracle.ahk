@@ -6,10 +6,7 @@
 
 ;
 
-~Enter:: 
- Suspend Permit
- Suspend
- Return
+*~Enter::Suspend
 
 f11::Suspend
 
