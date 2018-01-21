@@ -29,7 +29,7 @@ return
 
 f::
 SetKeyDelay, 0
-;Rod of Atos needs to be in first item slot
+;Rod of Atos needs to be in Z item slot
 Send z
 Sleep 50
 Send x
