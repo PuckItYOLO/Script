@@ -34,11 +34,11 @@ Sleep, 1000
 Return
 
 ;Press g key to Roll>>Activate TP
-;Very useful for escapes or stealing runes
+;Very useful for escapes or stealing runes WILL USE TP in Default N Item Slot
 ;Place cursor on target location or rune
 
 g::
 SetKeyDelay, 0
-Send, {NumPad2}{n}
+Send, {NumPad2}!n
 Sleep, 1000
 Return
