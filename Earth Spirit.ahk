@@ -39,6 +39,6 @@ Return
 
 g::
 SetKeyDelay, 0
-Send, {NumPad2}{NumPad0}
+Send, {NumPad2}{n}
 Sleep, 1000
 Return
