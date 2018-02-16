@@ -10,17 +10,17 @@
 
 f11::Suspend
 
-;Press f key for Blink>>Two offensive items placed in X and C Slots>>Malefice>>Black Hole Combo
-;Please use with Hake's Custom Range Finder Script set to 1200 so you stay in range of your blink
-;I tested this script with Veil of Discord and BKB in X and C slots which are core items for Enigma since Glimmer Cape will just get dusted
-;Place cursor over target location 
+;This Script requires you to have quick cast disabled
+;Press f key for Blink>>Two offensive items placed in X and C Slots>>1 defencive item placed in V slot>>Malefice>>Black Hole Combo
+;Please use with Hake's Custom Range Finder Script set to 1200 so you stay in range of your blink  //Optional
+;Place cursor over target location. Try to catch as many heros.
 
 f::
 SetKeyDelay, 0
-Send z
+Send z					;My item hotkey for blink's slot
 Sleep 50
-Send cxe
-Sleep 100
+Send cxve	;My item hotkey for Veil, Shivas Guard and BKB's slot. You can also but Shadow Blade / Glimmers cape/ Ghost Scepter in place of Any
+Sleep 150
 Send r
 Sleep 150
 return
