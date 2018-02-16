@@ -64,6 +64,4 @@
 
 
 
-
-
-
+NOTE: Use the required script only. The ones with NQC are No-QuckCast (QuickCast disabled) while the others are QuickCast enabled.
